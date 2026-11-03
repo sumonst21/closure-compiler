@@ -137,8 +137,8 @@
     <project.build.outputEncoding>UTF-8</project.build.outputEncoding>
     <jdk.version>1.8</jdk.version>
     <junit.version>4.12</junit.version>
-    <guava.version>25.1-jre</guava.version>
-    <protobuf.version>3.0.2</protobuf.version>
+    <guava.version>33.7.1-jre</guava.version>
+    <protobuf.version>3.25.5</protobuf.version>
   </properties>
 
   <build>
